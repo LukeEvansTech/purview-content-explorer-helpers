@@ -1,6 +1,6 @@
 # purview-content-explorer-helpers
 
-Higher-level helpers built on top of [`LukeEvansTech/purview-content-explorer-export`](https://github.com/LukeEvansTech/purview-content-explorer-export). The base tool exports raw item-level data from Microsoft Purview Content Explorer; this repo wraps the output to answer common reporting questions:
+Higher-level helpers built on top of [`LukeEvansTech/purview-content-explorer-export`](https://github.com/LukeEvansTech/purview-content-explorer-export). The base tool exports raw item-level data from Microsoft Purview Content Explorer; this repository wraps the output to answer common reporting questions:
 
 - _Where is unlabelled PII sitting?_
 - _What's our sensitivity-label coverage by workload?_

@@ -2,7 +2,7 @@
 
 Higher-level helpers for [`LukeEvansTech/purview-content-explorer-export`](https://github.com/LukeEvansTech/purview-content-explorer-export) outputs.
 
-See [README on GitHub](https://github.com/LukeEvansTech/purview-content-explorer-helpers) for installation.
+See [Readme on GitHub](https://github.com/LukeEvansTech/purview-content-explorer-helpers) for installation.
 
 ## Functions
 
